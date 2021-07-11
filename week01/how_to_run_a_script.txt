@@ -1,0 +1,2 @@
+To run a script, load into the ca320 directory and type ghci into cmd
+:load sphere  --- this will load the script
